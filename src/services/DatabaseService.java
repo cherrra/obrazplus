@@ -35,6 +35,6 @@ public class DatabaseService {
 
     //заглушка
     public void close() {
-        System.out.println("DatabaseService: Метод close() вызван. Соединения управляются индивидуально.");
+        System.out.println("DatabaseService: Метод close() вызван");
     }
 }
